@@ -10,7 +10,7 @@ You are welcome to use any of the assets that you can find on our website. We wo
 
 ## Press Kit
 
-We have prepared a single archive for download containing all you may use for press purposes. [You can download the Press Kit here](https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/releases/tag/latest).
+We have prepared a single archive for download containing all you may use for press purposes. You can download the [Press Kit here](https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/releases/tag/latest).
 
 ## Demo Gameplay & Trailer
 
@@ -81,6 +81,6 @@ You can find out about us in https://theflavare.com/about
 
 You can use all resources relate to game for publication
 
-- [Logo](https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/logo): https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/logo
-- [Screenshot](https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/screenshot): https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/screenshot
-- [Artwork](https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/artwork): https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/artwork
+- Logo: https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/logo
+- Screenshot: https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/screenshot
+- Artwork: https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit/tree/main/artwork
