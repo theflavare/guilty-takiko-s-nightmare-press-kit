@@ -47,6 +47,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Remove Old Release 🔥
+        continue-on-error: true
         run: |
           gh release delete latest
         env:
