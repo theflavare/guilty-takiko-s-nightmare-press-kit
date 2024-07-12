@@ -1,0 +1,28 @@
+{
+  "markdown-to-html": {
+    "document": {
+      "title": "Guilty - Takiko's Nightmare - Press Kit",
+      "description": "Guilty Takiko's Nightmare Game Press Kit.",
+      "style": "",
+      "meta": [
+        {
+          "description": "Guilty Takiko's Nightmare Game Press Kit."
+        },
+        {
+          "keywords": "theflavare, game, press kit, guilty, takiko, nightmare, 2d, platformer, pixel art,"
+        }
+      ]
+    },
+    "favicon": "logo/guilty-logo-die-cut.png",
+    "github-corners": "https://github.com/theflavare/guilty-takiko-s-nightmare-press-kit",
+    "reurls": {
+      "readme.md": "index.html"
+    }
+  },
+  "scripts": {
+    "start": "mkdir dist && markdown-to-html --source readme.md --output dist/index.html && cp artwork logo screenshot dist -r"
+  },
+  "devDependencies": {
+    "markdown-to-html-cli": "^4.1.0"
+  }
+}
