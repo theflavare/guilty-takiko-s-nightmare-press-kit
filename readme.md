@@ -27,7 +27,7 @@ We have prepared a single archive for download containing all you may use for pr
 
 Guilty - Takiko's Nightmare is a singleplayer story-based game. Play as Takiko to explore several areas inside her unique reality. Players can interact with various objects, solve puzzles, fighting enemies or discover some unreal phenomena.
 
-Guilty - Takiko's Nightmare Game will available on Windows & MacOS PC via Steam & Itch.io, Google Play (TBC).
+Guilty - Takiko's Nightmare Game will available on Windows via Steam, Itch.io, Google Play Store (TBA).
 
 ### Story
 
@@ -48,15 +48,19 @@ The psychiatrist took action by doing hypnotherapy to make Takiko relax and clos
 - Developer / Creator / Copyright: The Flavare
 - Platforms: Windows, MacOS (Steam), Android (TBC)
 - Genre: 2D Platformer / Puzzle / Adventure
-- Release Date: 30 Sept 2023 (Demo - Itch.io), 2025 (Release - Steam TBC)
 - Mode: Singleplayer
+- Demo Date: 30 Sept 2023 (Itch.io: <https://theflavare.itch.io/guilty-takiko-s-nightmare>)
+- Release Date:
+  - Steam: (TBA)
+- Store:
+  - Steam: (TBA)
 
 ### Other Facts
 
 - Perspective: 2D
 - Art Style: 2D Pixel-art
 - Game Engine: Unity Engine
-- Related / Inspiration games: Corpse Party, Lone Survivor
+- Related / Inspiration games: Corpse Party, Lone Survivor, Fatal Frame
 - Free Demo: Story Chapter 1
 - Language: English, Indonesia & Japanese
 - Price: (TBA)
